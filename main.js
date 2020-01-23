@@ -99,6 +99,16 @@ const things = ['car', 'fox', 'bread', 'pillow', 'jury duty']
 
 //What is a higher order method?  What are some that we know?
 
+var jobs = [
+  {receptionist: "James"}, 
+  {programmer: "Steve"},
+  {designer: "Alicia"}
+];
+
+//Using the .filter method, create a variable equal to an array containing the person whose title is programmer.  Use only arrow functions.
+
+
+
 const inventors = [
   { id: 0, first: 'Albert', last: 'Einstein', year: 1879, passed: 1955 },
   { id: 1, first: 'Isaac', last: 'Newton', year: 1643, passed: 1727 },
